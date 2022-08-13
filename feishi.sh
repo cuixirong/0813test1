@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "helloss"
+echo "111"
